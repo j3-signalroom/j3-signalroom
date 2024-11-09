@@ -8,4 +8,4 @@ These public projects are a testament to my passion for technology, a desire to 
 
 [![resume_small_icon](resume_small_icon.png)](https://github.com/j3-signalroom/j3-signalroom/raw/refs/heads/main/j3-resume.docx "J3 Resume") 
 
-[![news_small_icon](news_small_icon.png)](https://www.forbes.com/sites/adrianbridgwater/2024/03/19/confluent-reusable-data-streams-are-rising-c-level-it-agendas/ "J3 Mention(s)")
+[![news_small_icon](news_small_icon.png)](https://www.forbes.com/sites/adrianbridgwater/2024/03/19/confluent-reusable-data-streams-are-rising-c-level-it-agendas/ "J3 Quotes in the News")
