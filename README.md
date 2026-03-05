@@ -1,5 +1,5 @@
 # 👋 Hi!
-These public projects are a testament to my passion for technology, a desire to give back to the community, and a belief in the power of open-source development to drive progress and innovation across the industry.
+These public projects reflect my passion for technology, my commitment to giving back to the community, and my belief in the power of open source to drive innovation across the industry—particularly in the fields of data streaming and AI.
 
 
 **---J3**[![quotes_small_icon](quotes_small_icon.png)](https://www.forbes.com/sites/adrianbridgwater/2024/03/19/confluent-reusable-data-streams-are-rising-c-level-it-agendas/
