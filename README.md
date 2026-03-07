@@ -2,7 +2,7 @@
 These public projects reflect my passion for technology, a commitment to giving back to the community, and a belief that open-source collaboration accelerates innovation—especially in the domains of real-time data streaming and AI.
 
 
-<a href="mailto:j3@thej3.com" style="text-decoration: none; color: inherit;">**---J3**</a>[![quotes_small_icon](quotes_small_icon.png)](https://www.forbes.com/sites/adrianbridgwater/2024/03/19/confluent-reusable-data-streams-are-rising-c-level-it-agendas/
+>**---J3**[![quotes_small_icon](quotes_small_icon.png)](https://www.forbes.com/sites/adrianbridgwater/2024/03/19/confluent-reusable-data-streams-are-rising-c-level-it-agendas/
 "J3 getting the word out on Flink!")
 
 
